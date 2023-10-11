@@ -1,4 +1,3 @@
-Markdown
 ## Bank Fraud Analysis ML Project
 
 **Overview**
@@ -46,7 +45,3 @@ The next steps for this project include:
 * Developing a real-time fraud detection system that can flag fraudulent transactions as soon as they occur.
 * Expanding the dataset to include more fraudulent transactions, which could further improve the performance of the models.
 * Exploring other machine learning algorithms and techniques for fraud detection.
-
-**Contributions**
-
-This project is a collaborative effort between [list of contributors]. We welcome contributions from the community to further improve the project.
